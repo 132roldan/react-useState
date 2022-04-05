@@ -1,4 +1,4 @@
-export default  {
+const booksdata = {
    "data": { 
   "books": [
       {
@@ -103,3 +103,4 @@ export default  {
   ]
 }
 }
+export default booksdata
